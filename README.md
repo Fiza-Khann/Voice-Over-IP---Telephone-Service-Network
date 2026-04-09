@@ -39,3 +39,6 @@ Dynamic IP Allocation: Using DHCP servers to simplify network management and ens
 Advanced Routing: Implementation of the OSPF (Open Shortest Path First) protocol for dynamic and efficient routing across the network, ensuring reliability and adaptability to changing traffic patterns.
 Secure Communication: Utilizing SSH for remote access to network devices, ensuring secure administration and management.
 Scalability and Availability: A modular network design that accommodates future expansion and maintains service availability without disrupting operations.
+
+<img width="654" height="399" alt="image" src="https://github.com/user-attachments/assets/8d58c007-3dc1-4446-a28a-85263f39235a" />
+
